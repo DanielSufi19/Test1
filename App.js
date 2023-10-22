@@ -4,7 +4,7 @@ import Post from './Components/Post';
 import { useEffect, useState } from "react";
 import { createStackNavigator } from '@react-navigation/stack';
 import Homescreen from './Pages/Homescreen';
-import ContentScreen from './Pages/ContentScreen';
+import ContentScreen from './Pages/ContentScreen'
 import { NavigationContainer } from '@react-navigation/native';
 
 const Stack=createStackNavigator()
